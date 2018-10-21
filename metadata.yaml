@@ -1,5 +1,5 @@
 _repo: Evan-Harrington-Volume-4_4430
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Tailors -- Fiction'
 - !lcsh 'English fiction -- 19th century'
+- GITenberg
 title: Evan Harrington — Volume 4
 url: http://www.gutenberg.org/ebooks/4430
